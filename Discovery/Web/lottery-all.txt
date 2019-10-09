@@ -18,6 +18,7 @@
 /api/v1/swagger.json
 /api/v2
 /api/v3
+/app/webhooks
 /application.wadl
 /backup
 /backup.sql
