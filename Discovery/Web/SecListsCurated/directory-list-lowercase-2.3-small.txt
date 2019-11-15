@@ -1,16 +1,3 @@
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 index
 images
 download
