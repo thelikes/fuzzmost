@@ -32,6 +32,7 @@
 /README.md
 /readme.txt
 /README.txt
+/ReportServer/pages/ReportViewer.aspx
 /robots.txt
 /server-status
 /.ssh/id_rsa

@@ -57,6 +57,7 @@
 /README.md
 /readme.txt
 /README.txt
+/ReportServer/pages/ReportViewer.aspx
 /robots.txt
 /secret
 /secure
