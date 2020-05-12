@@ -70,6 +70,8 @@
 /.svn/entries
 /.svn/wc.db
 /swagger-ui
+/Telerik.Web.UI.DialogHandler.aspx
+/Telerik.Web.UI.WebResource.axd
 /temp
 /test
 /testing
