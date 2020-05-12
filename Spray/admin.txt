@@ -1,11 +1,5 @@
 
 123456
-P@ssw0rd
-P@ssw0rd123
-Passw0rd
-Passw0rd123
-Password!
-Password1
 adm
 adm1n
 admin
@@ -16,7 +10,19 @@ admin123456
 administrator
 guest
 letmein
+Pa$$123
+pass123
+pass123!
+Pass123!
+pass123$
+Pass123$
 passw0rd
 passw0rd!
+Passw0rd
+Passw0rd123
 password
 password!
+Password!
+Password1
+P@ssw0rd
+P@ssw0rd123

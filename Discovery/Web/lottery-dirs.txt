@@ -1,5 +1,4 @@
 /
-/VERSION
 /_admin
 /admin
 /api/proxy
@@ -18,6 +17,7 @@
 /fetch
 /files
 /graph
+/;/..;/manager
 /manager
 /metrics
 /old
@@ -34,3 +34,4 @@
 /tmp
 /upload
 /version
+/VERSION

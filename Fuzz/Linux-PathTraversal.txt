@@ -1,0 +1,8 @@
+# https://natedotred.wordpress.com/2020/02/07/butor-portal-arbitrary-file-download-vulnerability-cve-2019-13343/
+# Check tips and tricks
+/proc/self/environ
+/proc/self/cmdline
+/proc/sys/kernel/pid_max
+/proc/{pid}/cmdline
+/proc/self/net/arp
+/proc/self/smaps

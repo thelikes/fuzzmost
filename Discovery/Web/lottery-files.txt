@@ -1,4 +1,6 @@
 /adminer.php
+/Telerik.Web.UI.WebResource.axd
+/Telerik.Web.UI.DialogHandler.aspx
 /api/v1/swagger.json
 /app/etc/local.xml
 /application.wadl

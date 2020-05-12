@@ -36,6 +36,7 @@
 /info.php
 /infophp.php
 /i.php
+/;/..;/manager
 /manager
 /member.sql
 /metrics
