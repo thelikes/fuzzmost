@@ -36,6 +36,9 @@
 /info.php
 /infophp.php
 /i.php
+/jolokia
+/jolokia/list
+/jolokia/version
 /;/..;/manager
 /manager
 /member.sql

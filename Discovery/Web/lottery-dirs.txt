@@ -17,6 +17,7 @@
 /fetch
 /files
 /graph
+/jolokia
 /;/..;/manager
 /manager
 /metrics

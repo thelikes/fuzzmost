@@ -1,6 +1,4 @@
 /adminer.php
-/Telerik.Web.UI.WebResource.axd
-/Telerik.Web.UI.DialogHandler.aspx
 /api/v1/swagger.json
 /app/etc/local.xml
 /application.wadl
@@ -19,6 +17,8 @@
 /info.php
 /infophp.php
 /i.php
+/jolokia/list
+/jolokia/version
 /member.sql
 /mysql.conf
 /mysql.php
@@ -42,6 +42,8 @@
 /store/app/etc/local.xml
 /.svn/entries
 /.svn/wc.db
+/Telerik.Web.UI.DialogHandler.aspx
+/Telerik.Web.UI.WebResource.axd
 /test.php
 /time.php
 /upload.html
