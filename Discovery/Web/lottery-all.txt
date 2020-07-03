@@ -1,7 +1,8 @@
 /
-/_admin
 /admin
+/_admin
 /adminer.php
+/api/bff
 /api/proxy
 /api/v1
 /api/v1/swagger.json
@@ -15,6 +16,7 @@
 /backup.sql
 /.bash_history
 /beans
+/bff
 /config
 /config/database.yml
 /db_mysql.sql
@@ -24,8 +26,8 @@
 /demo
 /download
 /.DS_Store
-/.env
 /env
+/.env
 /etc
 /export.sql
 /fetch
@@ -39,8 +41,8 @@
 /jolokia
 /jolokia/list
 /jolokia/version
-/;/..;/manager
 /manager
+/;/..;/manager
 /member.sql
 /metrics
 /mysql.conf
@@ -55,8 +57,8 @@
 /phpversion.php
 /pinfo.php
 /_profiler/phpinfo
-/read_file
 /readfile
+/read_file
 /readme.md
 /README.md
 /readme.txt
@@ -91,8 +93,8 @@
 /version.txt
 /VERSION.txt
 /wp-config.php~
-/wp-config.php.bak
 /wp-config.php_bak
+/wp-config.php.bak
 /wp-config.php.old
 /wp-config.php.orig
 /wp-config.php.original

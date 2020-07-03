@@ -1,6 +1,7 @@
 /
-/_admin
 /admin
+/_admin
+/api/bff
 /api/proxy
 /api/v1
 /api/v2
@@ -8,6 +9,7 @@
 /app/webhooks
 /backup
 /beans
+/bff
 /config
 /debug
 /demo
@@ -18,13 +20,13 @@
 /files
 /graph
 /jolokia
-/;/..;/manager
 /manager
+/;/..;/manager
 /metrics
 /old
 /phpMyAdmin
-/read_file
 /readfile
+/read_file
 /secret
 /secure
 /service?Wsdl
