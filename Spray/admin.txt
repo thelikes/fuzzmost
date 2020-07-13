@@ -1,5 +1,11 @@
 
+112233
+123123
+12345
 123456
+123456789
+1q2w3e4r
+1q2w3e4r5t
 adm
 adm1n
 admin
@@ -11,6 +17,7 @@ administrator
 guest
 letmein
 Pa$$123
+pass
 pass123
 pass123!
 Pass123!
@@ -23,6 +30,11 @@ Passw0rd123
 password
 password!
 Password!
+password1
 Password1
 P@ssw0rd
 P@ssw0rd123
+q1w2e3r4
+q1w2e3r4t5y6
+qwerty
+qwerty123
