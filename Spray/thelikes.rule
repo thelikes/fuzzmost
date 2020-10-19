@@ -1,0 +1,41 @@
+[List.Rules:Spray]
+# append
+Az"[0-9]"
+Az"123"
+Az"!!"
+Az"[!@#$%]"
+Az"123[!@#$%]"
+Az"[0-9][!@#$%]"
+# capitalize first char + append
+cAz"[0-9]"
+cAz"123"
+cAz"!!"
+cAz"[!@#$%]"
+cAz"123[!@#$%]"
+cAz"[0-9][!@#$%]"
+# simple replace
+so0QM
+sa4QM
+sa@QM
+si1QM
+si!QM
+se3QM
+# replace with specials (currently doesn't work)
+#sa4QM"123"
+#sa@QM"!!"
+#si1QM"[!@#$%]"
+#si!QM"123[!@#$%]"
+#se3QM"[0-9][!@#$%]"
+# years
+#Az"2015"
+#Az"2016"
+#Az"2017"
+#Az"2018"
+Az"19"
+Az"19[!@#$%]"
+Az"20"
+Az"20[!@#$%]"
+cAz"19"
+cAz"19[!@#$%]"
+cAz"20"
+cAz"20[!@#$%]"
