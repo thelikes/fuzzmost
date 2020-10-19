@@ -20,7 +20,7 @@ sa@QM
 si1QM
 si!QM
 se3QM
-# replace with specials (currently doesn't work)
+# replace with specials (currently doesn't work as is)
 #sa4QM"123"
 #sa@QM"!!"
 #si1QM"[!@#$%]"
