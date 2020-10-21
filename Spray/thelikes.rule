@@ -13,6 +13,13 @@ cAz"!!"
 cAz"[!@#$%]"
 cAz"123[!@#$%]"
 cAz"[0-9][!@#$%]"
+# capitalize first char + append
+tAz"[0-9]"
+tAz"123"
+tAz"!!"
+tAz"[!@#$%]"
+tAz"123[!@#$%]"
+tAz"[0-9][!@#$%]"
 # simple replace
 so0QM
 sa4QM
@@ -20,7 +27,7 @@ sa@QM
 si1QM
 si!QM
 se3QM
-# replace with specials (currently doesn't work as is)
+# replace with specials
 #sa4QM"123"
 #sa@QM"!!"
 #si1QM"[!@#$%]"
@@ -39,3 +46,7 @@ cAz"19"
 cAz"19[!@#$%]"
 cAz"20"
 cAz"20[!@#$%]"
+#tAz"19"
+#tAz"19[!@#$%]"
+#tAz"20"
+#tAz"20[!@#$%]"
