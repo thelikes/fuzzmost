@@ -71,6 +71,7 @@ manager
 master
 merlin
 monitor
+nessus
 network
 new
 ops
@@ -111,6 +112,7 @@ ubuntu
 user
 usr
 web
+windows
 wizard
 xxx
 xxxx
