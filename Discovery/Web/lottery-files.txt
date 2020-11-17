@@ -17,6 +17,8 @@
 /info.php
 /infophp.php
 /i.php
+/jolokia/list
+/jolokia/version
 /..;/manager
 /;/..;/manager
 /member.sql
@@ -29,6 +31,7 @@
 /php.php
 /phpversion.php
 /pinfo.php
+/_profiler/phpinfo
 /_proxy/adminer.php
 /readme.md
 /README.md
@@ -36,7 +39,9 @@
 /README.txt
 /ReportServer/pages/ReportViewer.aspx
 /robots.txt
+/server-status
 /.ssh/id_rsa
+/status?full=true
 /store/app/etc/local.xml
 /.svn/entries
 /.svn/wc.db
