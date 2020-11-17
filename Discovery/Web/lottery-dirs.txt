@@ -24,6 +24,7 @@
 /jolokia
 /jolokia/list
 /jolokia/version
+/;/..;/manager
 /manager
 /metrics
 /old
