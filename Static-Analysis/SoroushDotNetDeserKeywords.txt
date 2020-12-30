@@ -1,0 +1,81 @@
+BinaryFormatter
+ObjectStateFormatter
+SoapFormatter
+LosFormatter
+DataContractSerializer -> new\s+DataContractSerializer\s*\((typeof\s*\(\s*(T\)|[a-z])|(?!typeof)[a-z]|Type\.GetType\([a-z])
+DataContractJsonSerializer -> new\s+DataContractJsonSerializer\s*\((typeof\s*\(\s*(T\)|[a-z])|(?!typeof)[a-z]|Type\.GetType\([a-z])
+DataContractResolver -> \.DataContractResolver\*=
+NetDataContractSerializer
+DeserializerBuilder
+XmlSerializer -> use this regex if it has been coded using standard naming convention -> new\s+XmlSerializer\s*\((typeof\s*\(\s*(T\)|[a-z])|(?!typeof)[a-z]|Type\.GetType\([a-z])
+DataTable.ReadXml (https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/dataset-datatable-dataview/security-guidance#swr)
+DataSet.ReadXml
+DataAdapter.Fill
+FastJSON
+Json.Net
+TypeNameHandling
+EntityKeyMemberConverter
+JsonConvert.DefaultSettings
+FSPickler
+SharpSerializer
+Hyperion
+Sweet.Jayson
+JavascriptSerializer -> new\s+JavascriptSerializer\(
+SimpleTypeResolver
+XamlReader.Load
+XamlReader.Parse
+PropertyInspectorFontAndColorData
+DocumentReference
+FixedDocument
+PageContent
+XpsDocument
+PrintQueue
+ResourceDictionary
+AssemblyInstaller
+Assembly.LoadFrom
+PresentationFramework
+Activity.Load
+AxHost.State
+BinaryClientFormatterSink
+BinaryClientFormatterSinkProvider
+BinaryMessageFormatter
+BinaryServerFormatterSink
+BinaryServerFormatterSinkProvider
+DesigntimeLicenseContextSerializer
+SecurityTokenHandler
+SettingsPropertyValue
+SoapClientFormatterSink
+SoapClientFormatterSinkProvider
+SoapServerFormatterSink
+SoapServerFormatterSinkProvider
+SetMethodSourceContent
+TypedDataSetGenerator
+TypedDataSetSchemaImporterExtension
+WindowsIdentity -> ClaimsIdentity\.actor|ClaimsIdentity\.bootstrapContext
+DataSet -> SetType\(typeof\((System\.Data\.DataSet|DataSet)\)\)
+DBConvert
+OutputCache
+ChannelsorChannel
+RolePrincipal
+IsolatedStorage
+MsmqIntegrationBinding
+DeserializeActivitiesFromDataObject
+LoadDataBlobs
+.Deserialize
+.UnsafeDeserialize
+DeserializeMethodResponse
+UnsafeDeserializeMethodResponse
+RemotingFormatter
+(SerializationInfo info, StreamingContext context)
+	\(SerializationInfo info, StreamingContext context\)\s*[^{]+\{\s+[^}]{10,}\}  
+	\(SerializationInfo info, StreamingContext context\)([^{}]+\{[^\}\{]{5,}(\}|([^{}]+[{}]){1,10}))
+	
+
+Low chance:
+LoadDataBlobs
+ValidateUser -> [^\w]ValidateUser\s*\(
+
+Very low chance:
+LoadPersonalizationState
+ActivityEvents|UserEvents|WorkflowEvents
+SecurityException
