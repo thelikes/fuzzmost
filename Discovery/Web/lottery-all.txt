@@ -36,6 +36,7 @@
 /.git/config
 /.git/HEAD
 /graph
+/index.php::$DATA
 /info.php
 /infophp.php
 /_internal
